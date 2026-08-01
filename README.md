@@ -1,5 +1,9 @@
 # 🛒 Blinkit Sales Analysis | End-to-End Data Analytics Project
 
+## 📊 Dashboard Preview
+
+![Dashboard](Power%20BI/dashboard.png)
+
 ## 📌 Project Overview
 
 This project demonstrates an end-to-end Data Analytics workflow using Microsoft Excel, SQL, and Power BI. The goal was to analyze Blinkit's sales data, uncover meaningful business insights, and build an interactive dashboard to support data-driven decision-making.
